@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>psources/six.jpg</file>
+        <file>psources/sketch.jpg</file>
+        <file>psources/smooth.jpg</file>
+        <file>psources/stars.jpg</file>
+        <file>psources/gets.jpg</file>
+        <file>psources/sent.jpg</file>
+        <file>psources/blue.jpg</file>
+        <file>psources/cloud.jpg</file>
+        <file>psources/ppink.jpg</file>
+        <file>psources/silk.jpg</file>
+        <file>psources/timg.jpg</file>
+    </qresource>
+</RCC>

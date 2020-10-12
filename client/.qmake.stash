@@ -1,0 +1,37 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1925
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192528614
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.25.28610\\ATLMFC\\include" \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.25.28610\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\include\\um" \
+    "D:\\Windows Kits\\10\\include\\10.0.18362.0\\ucrt" \
+    "D:\\Windows Kits\\10\\include\\10.0.18362.0\\shared" \
+    "D:\\Windows Kits\\10\\include\\10.0.18362.0\\um" \
+    "D:\\Windows Kits\\10\\include\\10.0.18362.0\\winrt" \
+    "D:\\Windows Kits\\10\\include\\10.0.18362.0\\cppwinrt" \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\SDK\\tinyxml \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\tools\\VisualFC\\Include \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\SDK\\wtl\\Include \
+    "C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\Microsoft SDK\\Include" \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\sdk\\stl\\stlport\\stlport \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\sdk\\boost\\include\\boost-1_34_1 \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\VC98\\atl\\include \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\VC98\\mfc\\include \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\VC98\\include
+QMAKE_CXX.LIBDIRS = \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.25.28610\\ATLMFC\\lib\\x86" \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.25.28610\\lib\\x86" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\lib\\um\\x86" \
+    "D:\\Windows Kits\\10\\lib\\10.0.18362.0\\ucrt\\x86" \
+    "D:\\Windows Kits\\10\\lib\\10.0.18362.0\\um\\x86" \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\SDK\\tinyxml\\vc60staticlib \
+    "C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\Microsoft SDK\\lib" \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\sdk\\stl\\stlport\\lib \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\sdk\\boost\\lib \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\VC98\\mfc\\lib \
+    C:\\Users\\YPL\\AppData\\Local\\Temp\\Rar\$EXa0.584\\VC6\\VC98\\lib

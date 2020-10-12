@@ -1,0 +1,10 @@
+release/login.o
+release/main.o
+release/mainwindow.o
+release/sendmailpro.o
+release/setup.o
+release/qrc_res.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_sendmailpro.o
+release/moc_setup.o
